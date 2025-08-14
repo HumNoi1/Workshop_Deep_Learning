@@ -1,0 +1,8 @@
+opencv-python
+typer
+supervision
+ultralytics
+pyresearch
+ultralytics
+onnx
+onnxsim
